@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Macaque WalkThrough Pro
+Comment=Retro 3D architectural design
+Exec=macaque-walkthrough-pro
+Icon=macaque-walkthrough-pro
+Terminal=false
+Categories=Graphics;3DGraphics;
+StartupNotify=true
