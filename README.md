@@ -1,3 +1,5 @@
+![Macaque WalkThrough Pro](screenshots/banner.png)
+
 # Macaque WalkThrough Pro
 
 A retro-inspired 3D modeling and architectural
