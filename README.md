@@ -39,3 +39,15 @@ python3 walkthrough.py
 
 Part of the Macaque software family.
 
+
+## Screenshots
+
+### Floor Plan Editor
+![Floor Plan Editor](screenshots/editor.png)
+
+### Real-Time 3D Walkthrough
+![3D Walkthrough](screenshots/walkthrough.png)
+
+### Architectural Design
+![Architectural Design](screenshots/architecture.png)
+
